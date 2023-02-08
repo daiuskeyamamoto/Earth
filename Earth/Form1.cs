@@ -6,6 +6,7 @@ namespace Earth
         {
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
+            MessageBox.Show("The second Commit");
         }
     }
 }
